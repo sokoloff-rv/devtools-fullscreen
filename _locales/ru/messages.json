@@ -1,0 +1,9 @@
+{
+    "extensionName": {
+      "message": "DevTools Fullscreen"
+    },
+    "extensionDescription": {
+      "message": "Автоматически разворачивает окно на весь экран при открытии DevTools."
+    }
+  }
+  

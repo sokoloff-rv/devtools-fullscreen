@@ -1,0 +1,9 @@
+{
+    "extensionName": {
+      "message": "DevTools Fullscreen"
+    },
+    "extensionDescription": {
+      "message": "Automatically maximizes the window when DevTools is opened."
+    }
+  }
+  

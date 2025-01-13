@@ -1,0 +1,16 @@
+{
+  "name": "__MSG_extensionName__",
+  "version": "1.0",
+  "manifest_version": 3,
+  "permissions": ["windows"],
+  "background": {
+    "service_worker": "background.js"
+  },
+  "devtools_page": "devtools.html",
+  "icons": {
+    "48": "icons/icon48.png",
+    "128": "icons/icon128.png"
+  },
+  "default_locale": "en",
+  "description": "__MSG_extensionDescription__"
+}
